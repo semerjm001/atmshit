@@ -1,0 +1,568 @@
+  ["atm1"] = {
+        position = { ['x'] = -1108.92, ['y'] = -1690.26, ['z'] = 4.37 },
+        reward = math.random(2500,3300),
+        nameofbank = "Beach Surf Shack",
+        lastrobbed = 0
+    },
+
+
+
+
+      ["atm2"] = {
+        position = { ['x'] = -1316.16, ['y'] = -836.08, ['z'] = 16.96 },
+        reward = math.random(2500,3300),
+        nameofbank = "Bay City Maze Bank",
+        lastrobbed = 0
+    },
+
+
+
+
+      ["atm3"] = {
+        position = { ['x'] = -1304.43, ['y'] = -705.64, ['z'] = 25.32 },
+        reward = math.random(2500,3300),
+        nameofbank = "Del Perro Fwy",
+        lastrobbed = 0
+    },
+
+
+
+
+      ["atm4"] = {
+        position = { ['x'] = -1204.49, ['y'] = -325.19, ['z'] = 37.84 },
+        reward = math.random(2500,3300),
+        nameofbank = "Fleeca Bank Blv Del Perro",
+        lastrobbed = 0
+    },
+
+
+
+      ["atm5"] = {
+        position = { ['x'] = -1429.75, ['y'] = -210.82, ['z'] = 46.5 },
+        reward = math.random(2500,3300),
+        nameofbank = "Movie Cougar Ave",
+        lastrobbed = 0
+    },
+
+
+
+      ["atm6"] = {
+        position = { ['x'] = -1416.63, ['y'] = -211.59, ['z'] = 46.5 },
+        reward = math.random(2500,3300),
+        nameofbank = "Movie Cougar Ave 2",
+        lastrobbed = 0
+    },
+
+
+
+      ["atm7"] = {
+        position = { ['x'] = -1408.56, ['y'] = -99.29, ['z'] = 52.42 },
+        reward = math.random(2500,3300),
+        nameofbank = "Cougar Ave",
+        lastrobbed = 0
+    },
+
+
+
+          ["atm8"] = {
+        position = { ['x'] = -2074.21, ['y'] = -317.02, ['z'] = 13.31 },
+        reward = math.random(2500,3300),
+        nameofbank = "Pacific Bluffs Gas Station",
+        lastrobbed = 0
+    },
+
+
+
+          ["atm9"] = {
+        position = { ['x'] = -2293.53, ['y'] = 356.79, ['z'] = 174.6 },
+        reward = math.random(2500,3300),
+        nameofbank = "Kortz Center",
+        lastrobbed = 0
+    },
+
+
+
+          ["atm10"] = {
+        position = { ['x'] = -845.56, ['y'] = -340.05, ['z'] = 38.68 },
+        reward = math.random(2500,3300),
+        nameofbank = "Intl Online Unlimited",
+        lastrobbed = 0
+    },
+
+
+
+          ["atm11"] = {
+        position = { ['x'] = 285.43, ['y'] = 143.86, ['z'] = 104.16 },
+        reward = math.random(2500,3300),
+        nameofbank = "Vinewood Blvd",
+        lastrobbed = 0
+    },
+
+
+
+          ["atm12"] = {
+        position = { ['x'] = 356.54, ['y'] = 172.3, ['z'] = 103.07 },
+        reward = math.random(2500,3300),
+        nameofbank = "Vinewood Souv.",
+        lastrobbed = 0
+    },
+
+
+
+              ["atm13"] = {
+        position = { ['x'] = 236.07, ['y'] = 217.05, ['z'] = 106.26 },
+        reward = math.random(2500,3300),
+        nameofbank = "Principal Bank",
+        lastrobbed = 0
+    },
+
+
+
+              ["atm14"] = {
+        position = { ['x'] = 158.28, ['y'] = 233.14, ['z'] = 106.61 },
+        reward = math.random(2500,3300),
+        nameofbank = "Vinewood 24/7",
+        lastrobbed = 0
+    },
+
+
+
+              ["atm15"] = {
+        position = { ['x'] = -716.82, ['y'] = -915.61, ['z'] = 19.22 },
+        reward = math.random(2500,3300),
+        nameofbank = "LTD Gasoline",
+        lastrobbed = 0
+    },
+
+
+
+              ["atm16"] = {
+        position = { ['x'] = -711.66, ['y'] = -820.03, ['z'] = 23.63 },
+        reward = math.random(2500,3300),
+        nameofbank = "Vespuwucci Blvd",
+        lastrobbed = 0
+    },
+
+
+
+              ["atm17"] = {
+        position = { ['x'] = -3041.58, ['y'] = 592.85, ['z'] = 7.91 },
+        reward = math.random(2500,3300),
+        nameofbank = "Great Ocean Highway ATM",
+        lastrobbed = 0
+    },
+
+
+
+              ["atm18"] = {
+        position = { ['x'] = -3044.3, ['y'] = 595.98, ['z'] = 7.59 },
+        reward = math.random(2500,3300),
+        nameofbank = "Great Ocean Highway ATM",
+        lastrobbed = 0
+    },
+
+
+
+              ["atm19"] = {
+        position = { ['x'] = -2976.7, ['y'] = 379.89, ['z'] = 14.99 },
+        reward = math.random(2500,3300),
+        nameofbank = "Great Ocean Highway Liquor",
+        lastrobbed = 0
+    },
+
+
+
+              ["atm20"] = {
+        position = { ['x'] = -2958.03, ['y'] = 489.43, ['z'] = 15.47 },
+        reward = math.random(2500,3300),
+        nameofbank = "Great Ocean Fleeca ATM",
+        lastrobbed = 0
+    },
+
+
+
+                  ["atm21"] = {
+        position = { ['x'] = -3241.57, ['y'] = 1008.76, ['z'] = 12.83 },
+        reward = math.random(2500,3300),
+        nameofbank = "Barbareno Convenience",
+        lastrobbed = 0
+    },
+
+
+
+                  ["atm22"] = {
+        position = { ['x'] = -3240.24, ['y'] = 996.46, ['z'] = 12.5 },
+        reward = math.random(2500,3300),
+        nameofbank = "Barbareno Convenience Outdoor",
+        lastrobbed = 0
+    },
+
+
+
+                  ["atm23"] = {
+        position = { ['x'] = -3143.66, ['y'] = 1127.41, ['z'] = 20.85 },
+        reward = math.random(2500,3300),
+        nameofbank = "Blaine County Savings",
+        lastrobbed = 0
+    },
+
+
+
+                  ["atm24"] = {
+        position = { ['x'] = 2564.59, ['y'] = 2584.81, ['z'] = 38.08 },
+        reward = math.random(2500,3300),
+        nameofbank = "Rex's Diner",
+        lastrobbed = 0
+    },
+
+
+
+                  ["atm25"] = {
+        position = { ['x'] = 540.29, ['y'] = 2670.99, ['z'] = 42.16 },
+        reward = math.random(2500,3300),
+        nameofbank = "24/7 Route 68",
+        lastrobbed = 0
+    },
+
+
+
+                  ["atm26"] = {
+        position = { ['x'] = -1091.45, ['y'] = 2708.67, ['z'] = 18.96 },
+        reward = math.random(2500,3300),
+        nameofbank = "Discount Store Rt.68",
+        lastrobbed = 0
+    },
+
+
+
+                  ["atm27"] = {
+        position = { ['x'] = 1968.03, ['y'] = 3743.63, ['z'] = 32.34 },
+        reward = math.random(2500,3300),
+        nameofbank = "24/7 Sandy Shores",
+        lastrobbed = 0
+    },
+
+
+
+                  ["atm28"] = {
+        position = { ['x'] = 1822.46, ['y'] = 3683.34, ['z'] = 34.28 },
+        reward = math.random(2500,3300),
+        nameofbank = "Sandy Shore Medical Center",
+        lastrobbed = 0
+    },
+
+
+
+                  ["atm29"] = {
+        position = { ['x'] = 1686.75, ['y'] = 4815.84, ['z'] = 42.01 },
+        reward = math.random(2500,3300),
+        nameofbank = "Grapeseed Discount Store",
+        lastrobbed = 0
+    },
+
+
+
+                      ["atm30"] = {
+        position = { ['x'] = 1702.98, ['y'] = 4933.35, ['z'] = 42.06 },
+        reward = math.random(2500,3300),
+        nameofbank = "Grapeseed Convenience Store",
+        lastrobbed = 0
+    },
+
+
+
+                      ["atm31"] = {
+        position = { ['x'] = 1735.32, ['y'] = 6410.51, ['z'] = 35.04 },
+        reward = math.random(2500,3300),
+        nameofbank = "24/7 Senora Fwy ",
+        lastrobbed = 0
+    },
+
+
+
+                      ["atm32"] = {
+        position = { ['x'] = 1701.39, ['y'] = 6426.74, ['z'] = 32.76 },
+        reward = math.random(2500,3300),
+        nameofbank = "Globe Oil Senora Fwy",
+        lastrobbed = 0
+    },
+
+
+
+                      ["atm33"] = {
+        position = { ['x'] = 174.39, ['y'] = 6637.83, ['z'] = 31.57 },
+        reward = math.random(2500,3300),
+        nameofbank = "Paleto Gas Station",
+        lastrobbed = 0
+    },
+
+
+
+                      ["atm34"] = {
+        position = { ['x'] = -96.17, ['y'] = 6456.19, ['z'] = 31.46 },
+        reward = math.random(2500,3300),
+        nameofbank = "Country Store Grt Ocean Hwy",
+        lastrobbed = 0
+    },
+
+
+
+                      ["atm35"] = {
+        position = { ['x'] = -133.07, ['y'] = 6366.54, ['z'] = 31.48 },
+        reward = math.random(2500,3300),
+        nameofbank = "Mojito INN",
+        lastrobbed = 0
+    },
+
+
+
+                      ["atm36"] = {
+        position = { ['x'] = 1686.75, ['y'] = 4815.84, ['z'] = 42.01 },
+        reward = math.random(2500,3300),
+        nameofbank = "Grapeseed Dis. Store",
+        lastrobbed = 0
+    },
+
+
+
+                      ["atm37"] = {
+        position = { ['x'] = -283.3, ['y'] = 6225.91, ['z'] = 31.49 },
+        reward = math.random(2500,3300),
+        nameofbank = "HERR Kutz",
+        lastrobbed = 0
+    },
+
+
+
+                          ["atm38"] = {
+        position = { ['x'] = -386.96, ['y'] = 6045.86, ['z'] = 31.5 },
+        reward = math.random(2500,3300),
+        nameofbank = "Paleto Bay Market",
+        lastrobbed = 0
+    },
+
+
+
+                          ["atm39"] = {
+        position = { ['x'] = 147.81, ['y'] = -1035.39, ['z'] = 29.34 },
+        reward = math.random(2500,3300),
+        nameofbank = "Legion Square Fleeca",
+        lastrobbed = 0
+    },
+
+
+
+
+                          ["atm40"] = {
+        position = { ['x'] = 24.29, ['y'] = -946.23, ['z'] = 29.36 },
+        reward = math.random(2500,3300),
+        nameofbank = "Lombank ATM",
+        lastrobbed = 0
+    },
+
+
+
+                          ["atm41"] = {
+        position = { ['x'] = 5.19, ['y'] = -919.81, ['z'] = 29.56 },
+        reward = math.random(2500,3300),
+        nameofbank = "Lombank ATM",
+        lastrobbed = 0
+    },
+
+
+
+                          ["atm42"] = {
+        position = { ['x'] = 119.09, ['y'] = -883.84, ['z'] = 31.12 },
+        reward = math.random(2500,3300),
+        nameofbank = "Escapism ATM",
+        lastrobbed = 0
+    },
+
+
+
+                          ["atm43"] = {
+        position = { ['x'] = 112.42, ['y'] = -819.22, ['z'] = 31.34 },
+        reward = math.random(2500,3300),
+        nameofbank = "San Andreas Avenue ATM",
+        lastrobbed = 0
+    },
+
+
+
+                          ["atm44"] = {
+        position = { ['x'] = 112.27, ['y'] = -776.48, ['z'] = 31.43 },
+        reward = math.random(2500,3300),
+        nameofbank = "San Andreas Avenuwu ATM",
+        lastrobbed = 0
+    },
+
+
+
+                          ["atm45"] = {
+        position = { ['x'] = 288.5, ['y'] = -1256.79, ['z'] = 29.44 },
+        reward = math.random(2500,3300),
+        nameofbank = "Strawberry Ave. Gas Station",
+        lastrobbed = 0
+    },
+
+
+
+                          ["atm46"] = {
+        position = { ['x'] = 288.2, ['y'] = -1282.27, ['z'] = 29.65 },
+        reward = math.random(2500,3300),
+        nameofbank = "Strawberry Ave. Gas Station",
+        lastrobbed = 0
+    },
+
+
+
+                          ["atm47"] = {
+        position = { ['x'] = 33.19, ['y'] = -1348.15, ['z'] = 29.5 },
+        reward = math.random(2500,3300),
+        nameofbank = "Elgin Avenue 24/7",
+        lastrobbed = 0
+    },
+
+
+
+                          ["atm48"] = {
+        position = { ['x'] = 129.57, ['y'] = -1291.92, ['z'] = 29.27 },
+        reward = math.random(2500,3300),
+        nameofbank = "Unicorn ATM",
+        lastrobbed = 0
+    },
+
+
+
+                          ["atm49"] = {
+        position = { ['x'] = -254.29, ['y'] = -692.42, ['z'] = 33.61 },
+        reward = math.random(2500,3300),
+        nameofbank = "Peaceful Street",
+        lastrobbed = 0
+    },
+
+
+
+                          ["atm50"] = {
+        position = { ['x'] = -258.73, ['y'] = -723.26, ['z'] = 33.46 },
+        reward = math.random(2500,3300),
+        nameofbank = "Peaceful St Bus Stop",
+        lastrobbed = 0
+    },
+
+
+
+                          ["atm51"] = {
+        position = { ['x'] = -262.02, ['y'] = -2012.45, ['z'] = 30.15 },
+        reward = math.random(2500,3300),
+        nameofbank = "Maze Bank Arena Entrance R",
+        lastrobbed = 0
+    },
+
+
+
+                          ["atm52"] = {
+        position = { ['x'] = -272.96, ['y'] = -2024.57, ['z'] = 30.15 },
+        reward = math.random(2500,3300),
+        nameofbank = "Maze Bank Arena Entrance L",
+        lastrobbed = 0
+    },
+
+
+
+                              ["atm53"] = {
+        position = { ['x'] = -56.92, ['y'] = -1752.18, ['z'] = 29.42 },
+        reward = math.random(2500,3300),
+        nameofbank = "Grove St. 24/7",
+        lastrobbed = 0
+    },
+
+
+
+                              ["atm54"] = {
+        position = { ['x'] = 1138.3, ['y'] = -469.05, ['z'] = 66.73 },
+        reward = math.random(2500,3300),
+        nameofbank = "DigiDen ATM",
+        lastrobbed = 0
+    },
+
+
+
+                              ["atm55"] = {
+        position = { ['x'] = 1166.96, ['y'] = -456.21, ['z'] = 66.8 },
+        reward = math.random(2500,3300),
+        nameofbank = "Reflex Nails ATM",
+        lastrobbed = 0
+    },
+
+
+
+                              ["atm56"] = {
+        position = { ['x'] = 1153.75, ['y'] = -326.8, ['z'] = 69.21 },
+        reward = math.random(2500,3300),
+        nameofbank = "Mirror Park Convenience",
+        lastrobbed = 0
+    },
+
+
+
+                              ["atm57"] = {
+        position = { ['x'] = 2558.84, ['y'] = 350.94, ['z'] = 108.62 },
+        reward = math.random(2500,3300),
+        nameofbank = "Palomino Station",
+        lastrobbed = 0
+    },
+
+
+
+                              ["atm58"] = {
+        position = { ['x'] = 2558.41, ['y'] = 389.56, ['z'] = 108.62 },
+        reward = math.random(2500,3300),
+        nameofbank = "Palomino 24/7",
+        lastrobbed = 0
+    },
+
+
+
+                              ["atm59"] = {
+        position = { ['x'] = -821.63, ['y'] = -1081.97, ['z'] = 11.13 },
+        reward = math.random(2500,3300),
+        nameofbank = "Vespuwucci Binco",
+        lastrobbed = 0
+    },
+
+
+
+                              ["atm60"] = {
+        position = { ['x'] = -660.61, ['y'] = -854.07, ['z'] = 182.53 },
+        reward = math.random(2500,3300),
+        nameofbank = "Little Seoul DigiDen",
+        lastrobbed = 0
+    },
+
+
+
+                                  ["atm61"] = {
+        position = { ['x'] = -619.11, ['y'] = -707.77, ['z'] = 30.05 },
+        reward = math.random(2500,3300),
+        nameofbank = "International Online Union",
+        lastrobbed = 0
+    },
+
+
+
+                                  ["atm62"] = {
+        position = { ['x'] = -537.75, ['y'] = -854.42, ['z'] = 29.3 },
+        reward = math.random(2500,3300),
+        nameofbank = "UwU What's This Look See",
+        lastrobbed = 0
+    },
+
+
+
+                                  ["atm63"] = {
+        position = { ['x'] = 527.26, ['y'] = -160.64, ['z'] = 57.09 },
+        reward = math.random(2500,3300),
+        nameofbank = "Spanish Ave 24/7",
+        lastrobbed = 0
+    },
